@@ -1,0 +1,3 @@
+# favicon
+
+Generated from https://www.favicon-generator.org placed in public/assets/icons.
